@@ -1,4 +1,3 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1754468854369,1069,HTTP请求,200,OK,setUp 线程组 1-1,text,true,,961,110,1,1,https://ipwho.is/,1067,0,846
-1754468855442,210,HTTP请求,200,OK,setUp 线程组 1-1,text,true,,961,110,1,1,https://ipwho.is/,210,0,0
-1754468855653,215,HTTP请求,200,OK,setUp 线程组 1-1,text,true,,961,110,1,1,https://ipwho.is/,214,0,0
+1754470834468,1209,HTTP请求,200,OK,setUp 线程组 1-1,text,true,,961,110,1,1,https://ipwho.is/,1206,0,1002
+1754470835682,210,HTTP请求,200,OK,setUp 线程组 1-1,text,true,,961,110,1,1,https://ipwho.is/,209,0,0
